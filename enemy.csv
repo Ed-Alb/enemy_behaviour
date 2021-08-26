@@ -1,0 +1,11 @@
+100,6,FALSE,FALSE,patrulare
+100,2,FALSE,FALSE,alertare
+100,6,FALSE,FALSE,patrulare
+100,4,FALSE,FALSE,alertare
+0,5,TRUE,FALSE,mort
+-10,3,FALSE,TRUE,mort
+100,1,TRUE,TRUE,atac
+100,6,FALSE,TRUE,patrulare
+100,4,FALSE,FALSE,alertare
+0,1,TRUE,TRUE,mort
+-10,2,TRUE,TRUE,mort
